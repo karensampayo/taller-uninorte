@@ -1,5 +1,5 @@
 # taller-uninorte
-Taller 01 Git (Karen Sampayo - Jose Narvaez - Roberto Campy)
+Taller 01 Git (Karen Sampayo - Roberto Campy)
 
 
 # Cambio uno
